@@ -1,0 +1,15 @@
+{
+     "project": {
+          "title": "СделайНеСам",
+          "author": "МБОУ \"Гимназия №38\"",
+          "bottomButtons": "<a class=\"label label-primary\" href=\"https://vk.com/officialtim\"><i class=\"fa fa-vk\"></i></a> <a class=\"label label-warning\" href=\"http://ok.ru\"><i class=\"fa fa-odnoklassniki\"></i></a> <a class=\"label label-primary\" href=\"http://facebook.com\"><i class=\"fa fa-facebook\"></i></a> <a class=\"label label-info\" href=\"http://twitter.com\"><i class=\"fa fa-twitter\"></i></a> <a class=\"label label-primary\" href=\"http://nn.ru\">NN.RU</a> <a class=\"label label-danger\" href=\"http://svetsky.ru\">Светский</a>"
+     },
+     "motto": {
+          "small": "Time is Money",
+          "large": "Мы дарим время для настоящего"
+     },
+     "settings": {
+          "saveDelay": 600000,
+          "password": "Q1w2E3stop"
+     }
+}
